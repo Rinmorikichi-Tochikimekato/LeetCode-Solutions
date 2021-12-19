@@ -1,5 +1,5 @@
 class Quick_Union {
-     //union find Simple
+     //union find Simple, faster than initial
     int[] uf;
     
     public boolean validPath(int n, int[][] edges, int start, int end) {
